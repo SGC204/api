@@ -1,0 +1,11 @@
+# ignore these folders
+target/
+.idea/
+.vscode/
+.mvn/wrapper
+test/
+
+# ignore these files
+.properties
+mvnw.cmd
+mvnw
